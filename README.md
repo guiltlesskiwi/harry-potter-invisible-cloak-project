@@ -26,3 +26,5 @@
 8. Exit
    Press ESC to stop being a wizard and go back to being a boring muggle.
 
+**I SUGGEST YOU TO PASTE THIS CODE IN PYCHARM AND CREATE THE ENVIRONMENT AND THEN INSTALL opencv and numpy and then you are ready to do the magic !!!!!!!!!!**
+
